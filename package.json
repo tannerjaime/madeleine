@@ -1,0 +1,24 @@
+{
+  "name": "madeleine",
+  "version": "1.0.0",
+  "description": "major studio 2 project in collaboration with MS Data Visualization student Jamie Tanner about storytelling memories triggered by the smell of foods",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alonso Castro",
+  "contributors": [
+    {
+      "name": "Jamie Tanner"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "gpio-stream": "^1.0.17",
+    "onoff": "^1.0.4",
+    "serialport": "^2.0.6",
+    "socket.io": "^1.4.5"
+  }
+}
